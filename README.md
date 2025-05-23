@@ -33,13 +33,13 @@ This project is a simple CRUD (Create, Read, Update, Delete) web application bui
 
 2. **Install backend dependencies:**
     ```bash
-    cd backend
+    cd server
     npm install
     ```
 
 3. **Install frontend dependencies:**
     ```bash
-    cd ../frontend
+    cd client
     npm install
     ```
 
@@ -48,13 +48,13 @@ This project is a simple CRUD (Create, Read, Update, Delete) web application bui
 
 5. **Run the backend server:**
     ```bash
-    cd ../backend
+    cd server
     nodemon index.js
     ```
 
 6. **Run the frontend app:**
     ```bash
-    cd ../frontend
+    cd client
     npm start
     ```
 
